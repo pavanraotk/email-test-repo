@@ -1,0 +1,13 @@
+version: "3"
+services:
+
+  emailagentapp:
+    image: email-service-app:latest
+    network_mode: bridge
+    container_name: emailserviceapp
+    expose:
+      - 8080
+      - 8000
+    ports:
+      - 8080:8080
+      - 8000:8000
