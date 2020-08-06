@@ -24,5 +24,5 @@ After building the image, run the application using command ```docker-compose up
 * Push the logs to ELK or ELK equivalent.
 * Persist the emails in a data store to enable re-try if in case of a failure.
 
-### Part not built
+### Functionality not built
 * Query param part with getting quote of the day.
