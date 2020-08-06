@@ -4,9 +4,9 @@ This project sends email through through sendgrid provider. There's an attached 
 
 ### Technologies used
 
-*Spring-boot
-*Docker
-*Maven
+* Spring-boot
+* Docker
+* Maven
 
 ### Prerequisite before building
 Ensure maven is installed locallly
